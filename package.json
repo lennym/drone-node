@@ -1,5 +1,5 @@
 {
-  "name": "drone-node",
+  "name": "@lennym/drone-node",
   "version": "2.1.0",
   "description": "Node client for the Drone API",
   "main": "lib/index.js",
